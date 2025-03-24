@@ -44,3 +44,10 @@ Services should fetch and save data
 index.html needs to reference the app component
 
 ERROR RangeError: Maximum call stack size exceeded - had index.html and app.component.html calling <app-root> which isn't allowed
+
+Link for live site: https://sh4d0wr1d3r.github.io/portfolio/
+
+Page navigation: https://stackoverflow.com/questions/48277721/angular-how-to-make-link-to-jump-for-certain-section-in-the-same-page
+
+Solution for scrolling is anchors
+https://dev.to/ayyash/anchor-scrolling-in-angular-1om1
