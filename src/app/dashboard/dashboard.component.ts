@@ -14,10 +14,6 @@ export class DashboardComponent {
 
   constructor(private scroller: ViewportScroller) {}
 
-  // ngOnInit() {
-  //   this.router.navigate(["/"]);
-  // }
-
   public navigateToSection(sectionId: string) {
     this.scroller.scrollToAnchor(sectionId);
   }

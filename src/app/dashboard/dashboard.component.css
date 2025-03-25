@@ -1,20 +1,3 @@
-.pageLinks {
-    color: rgb(95, 128, 30);
-}
-
-.pageLinks:visited {
-    color: rgb(95, 128, 30);
-}
-
-.pageLinks:hover {
-    color: rgb(95, 128, 30);
-}
-
-.pageLinks:active {
-    color: rgb(95, 128, 30);
-}
-
-/* The above doesn't seem to work */
 
 .pageLinks h1 {
     color: rgb(95, 128, 30);
@@ -24,7 +7,7 @@
     font-size: 25pt;
 }
 .pageLinks a {
-    color: rgb(95, 128, 30);
+    color: black;
     font-size: 15pt;
 }
 
@@ -33,4 +16,5 @@
     display: flex;
     flex-direction: row;
     align-content: center;
+    background-color:rgb(75, 98, 27);
 }

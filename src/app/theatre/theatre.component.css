@@ -1,0 +1,11 @@
+.test-card {
+    max-width: 400px;
+    /* want to make it dynamic sizing */
+}
+
+/* .example-header-image {
+    background-image: url('https://material.angular.io/assets/img/examples/shiba1.jpg');
+    background-size: cover;
+    size: 200px;
+} */
+ /* this part of css is for mini icon */
