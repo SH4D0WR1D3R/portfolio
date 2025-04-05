@@ -1,6 +1,13 @@
-.test-card {
+.company-card {
     max-width: 400px;
-    /* want to make it dynamic sizing */
+}
+
+.location {
+    max-width: 25px;
+}
+
+.role {
+    max-width: 25px;
 }
 
 /* .example-header-image {
