@@ -1,0 +1,20 @@
+
+.pageLinks h1 {
+    color: rgb(95, 128, 30);
+    display: flex;
+    justify-content: left;
+    align-content: top;
+    font-size: 25pt;
+}
+.pageLinks a {
+    color: black;
+    font-size: 15pt;
+}
+
+.pageLinks {
+    justify-content: space-between;
+    display: flex;
+    flex-direction: row;
+    align-content: center;
+    background-color:rgb(75, 98, 27);
+}

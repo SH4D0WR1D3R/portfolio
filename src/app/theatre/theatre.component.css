@@ -1,0 +1,18 @@
+.company-card {
+    max-width: 400px;
+}
+
+.location {
+    max-width: 25px;
+}
+
+.role {
+    max-width: 25px;
+}
+
+/* .example-header-image {
+    background-image: url('https://material.angular.io/assets/img/examples/shiba1.jpg');
+    background-size: cover;
+    size: 200px;
+} */
+ /* this part of css is for mini icon */
