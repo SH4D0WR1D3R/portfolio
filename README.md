@@ -51,3 +51,6 @@ Page navigation: https://stackoverflow.com/questions/48277721/angular-how-to-mak
 
 Solution for scrolling is anchors
 https://dev.to/ayyash/anchor-scrolling-in-angular-1om1
+
+Switched pages folder to (root) and works now
+Doesn't seem I need to do a new deploy when committing

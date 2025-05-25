@@ -1,5 +1,22 @@
 .company-card {
-    max-width: 400px;
+    max-width: 300px;
+    color: black;
+    margin-right: 10px;
+    box-shadow: 3px 3px rgb(220, 219, 219);
+}
+
+.fame-card {
+    max-width: 300px;
+    color: black;
+    margin-right: 10px;
+    box-shadow: 3px 3px rgb(220, 219, 219);
+}
+
+.legally-card {
+    max-width: 300px;
+    color: black;
+    margin-right: 10px;
+    box-shadow: 3px 3px rgb(220, 219, 219);
 }
 
 .location {
@@ -8,6 +25,11 @@
 
 .role {
     max-width: 25px;
+}
+
+.theatre-shows-worked-list {
+    display: flex;
+    flex-wrap: wrap;
 }
 
 /* .example-header-image {
